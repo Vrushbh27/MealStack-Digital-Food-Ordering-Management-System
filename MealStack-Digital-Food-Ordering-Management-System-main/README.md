@@ -228,7 +228,7 @@ Check out the live application: [MealStack Demo](https://meal-stack-digital-food
 
 ## 👥 Author
 
-**Vaibhav Pophale**
+**Vrushabh Bhandalkar**
 
 ---
 
